@@ -2,7 +2,7 @@
   "name": "football-project",
   "version": "1.0.0",
   "description": "",
-  "main": "build/index.js",
+  "main": "index.js",
   "scripts": {
     "start:build": "tsc -w",
     "start:run": "nodemon build/index.js",
